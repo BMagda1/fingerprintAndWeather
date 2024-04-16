@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Fingerprint</string>
+    <string name="weather_text">Weather</string>
+    <string name="signupText">Create Account</string>
+    <string name="fingerprintText">Use fingerprint?</string>
+    <string name="Login_button">Login</string>
+    <string name="PasswordTextFiels">Enter password\n</string>
+    <string name="UsernameTextField">Enter username\n</string>
+    <string name="PasswordText">Password</string>
+    <string name="UserNameTextView">Username</string>
+    <string name="Login_text">Login</string>
+    <string name="Register_text">Register</string>
+    <string name="SecondNameTextField">Enter Second Name\n</string>
+    <string name="FirstNameText">First Name</string>
+    <string name="FirstNameTextField">Enter First Name</string>
+    <string name="LastNameText">Last Name\n</string>
+    <string name="submitButton">Register!</string>
+    <string name="password_hint">Password</string>
+    <string name="register_button_text">Register Now</string>
+    <string name="username_hint">Username</string>
+    <string name="UsernameHere">Enter Username</string>
+    <string name="PasswordHere">Enter Password</string>
+    <string name="weather_icon">Weather icon</string>
+    <string name="use_current_location">Use Current Location</string>
+</resources>
